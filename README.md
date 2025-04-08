@@ -1,5 +1,5 @@
 # dbf2sql
-Cette commande, écrite en Pascal (Turbo Pascal), permet de convertir un fichier .DBF (DBase III) en format SQL.
+Cette commande, écrite en Pascal (Turbo Pascal ou Free Pascal), permet de convertir un fichier .DBF (DBase III) en format SQL.
 
 <h3>Syntaxe</h3>
 
